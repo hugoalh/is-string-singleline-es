@@ -3,7 +3,7 @@ const regexpSingleLine = /^.*$/;
  * Determine whether the string is single line.
  * @param {string} item Item that need to determine.
  * @returns {boolean} Determine result.
- * @example 1
+ * @example
  * ```ts
  * isStringSingleLine(`Wisi sed et at vero eos nostrud volutpat sed stet dignissim sit sanctus in eros.
  * Et laoreet odio sanctus ea.
@@ -12,7 +12,7 @@ const regexpSingleLine = /^.*$/;
  * Dolor lorem sed et volutpat exerci gubergren gubergren tempor quis ea eirmod eos ut dolor autem ipsum accumsan.`);
  * //=> false
  * ```
- * @example 2
+ * @example
  * ```ts
  * isStringSingleLine("Hello, world!");
  * //=> true
