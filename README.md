@@ -4,8 +4,8 @@
 
 🔗
 [GitHub](https://github.com/hugoalh/is-string-singleline-es)
-[JSR](https://jsr.io/@hugoalh/is-string-singleline)
-[NPM](https://www.npmjs.com/package/@hugoalh/is-string-singleline)
+● [JSR](https://jsr.io/@hugoalh/is-string-singleline)
+● [NPM](https://www.npmjs.com/package/@hugoalh/is-string-singleline)
 
 An ECMAScript module to determine whether the string is single line.
 
