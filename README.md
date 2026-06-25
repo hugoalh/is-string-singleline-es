@@ -3,7 +3,8 @@
 [**⚖️** MIT](./LICENSE.md)
 
 🔗
-[GitHub](https://github.com/hugoalh/is-string-singleline-es)
+[DistBoard @hugoalh](https://hugoalh.github.io/distboard/is_string_singleline_ecmascript)
+● [GitHub](https://github.com/hugoalh/is-string-singleline-es)
 ● [JSR](https://jsr.io/@hugoalh/is-string-singleline)
 ● [NPM](https://www.npmjs.com/package/@hugoalh/is-string-singleline)
 
