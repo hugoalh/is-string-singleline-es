@@ -7,6 +7,7 @@ authors:
   - name: "HUGOALH"
     alias: "hugoalh"
 repository-code: "https://github.com/hugoalh/is-string-singleline-es"
+abstract: "An ECMAScript module to determine whether the string is single line."
 keywords:
   - "ecmascript"
   - "es"
